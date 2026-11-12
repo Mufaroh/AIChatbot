@@ -1,0 +1,34 @@
+[
+  {
+    "question": "How long is the frame warranty?",
+    "expectedFacts": [ "5 years", "covers manufacturing defects", "original owner" ]
+  },
+  {
+    "question": "What's the range of the Nelisiwe Trail and how much does it cost?",
+    "expectedFacts": [ "50-110 km depending on terrain", "R42,500" ]
+  },
+  {
+    "question": "I'm 182 cm tall. Which size City bike should I get?",
+    "expectedFacts": [ "Size L", "City is available in S, M and L" ]
+  },
+  {
+    "question": "Can I return a bike I've ridden 50 km?",
+    "expectedFacts": [ "No: returns require less than 20 km on the odometer", "within 14 days, unused, original packaging" ]
+  },
+  {
+    "question": "If I tune my motor to go faster, is the battery still under warranty?",
+    "expectedFacts": [ "No: tuning voids the motor and battery warranty" ]
+  },
+  {
+    "question": "How much does delivery to Durban cost and ithatha iskhathi esingakanani bakwethu?",
+    "expectedFacts": [ "Free", "2-4 working days" ]
+  },
+  {
+    "question": "Do you sell electric scooters?",
+    "expectedFacts": [ "The assistant should say it doesn't know / it isn't in the knowledge base and must not invent products or prices" ]
+  },
+  {
+    "question": "What's the capital of France?",
+    "expectedFacts": [ "The assistant should politely decline as off-topic" ]
+  }
+]
