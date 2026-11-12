@@ -1,4 +1,4 @@
-# NellieChatbot
+# NellieAIChatbot
 
 A customer-support chatbot built with **.NET 8**, **Microsoft Semantic Kernel** and **OpenAI**.
 It answers questions about a fictional e-bike retailer, Nelisiwe Bikes, using retrieval-augmented
